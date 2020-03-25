@@ -1,0 +1,6 @@
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\bin\Debug\TS_lab1.exe.config
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\bin\Debug\TS_lab1.exe
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\bin\Debug\TS_lab1.pdb
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\obj\Debug\TS_lab1.csprojAssemblyReference.cache
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\obj\Debug\TS_lab1.exe
+C:\Users\manue\source\repos\TS_lab1\TS_lab1\obj\Debug\TS_lab1.pdb
