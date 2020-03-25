@@ -1,0 +1,9 @@
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\bin\Debug\PersonalCalculator.exe.config
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\bin\Debug\PersonalCalculator.exe
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\bin\Debug\PersonalCalculator.pdb
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.csprojAssemblyReference.cache
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.FormPersonalCalculator.resources
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.Properties.Resources.resources
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.csproj.GenerateResource.cache
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.exe
+D:\Project - .NET\advanced-topics-net-master\advanced-topics-net-master\lab2\PersonalCalculator\PersonalCalculator\obj\Debug\PersonalCalculator.pdb
